@@ -1,0 +1,29 @@
+name: Build and Push Docker Image
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+
+    env:
+      DOCKER_IMAGE_NAME: ${{ secrets.DOCKER_IMAGE_NAME }}
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Build
+      run: |
+        git clone https://github.com/anasty17/mirror-leech-telegram-bot cloned
+        cd cloned
+        pwd
+        docker login -u ${{ secrets.DOCKER_USERNAME }} -p ${{ secrets.DOCKER_PASSWORD }}
+        docker build -t $DOCKER_IMAGE_NAME:${{ github.sha }} .
+        docker tag $DOCKER_IMAGE_NAME:${{ github.sha }} $DOCKER_IMAGE_NAME:latest
+        docker push $DOCKER_IMAGE_NAME:${{ github.sha }}
+        docker push $DOCKER_IMAGE_NAME:latest
+        
