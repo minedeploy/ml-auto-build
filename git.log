@@ -1,2 +1,2 @@
-2024-07-25 06:39:11
-commit e8b494f0e63974d21bee43e6d9be07812a265192 Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Jul 25 02:16:13 2024 +0300 Fixes - Fix jdownloader device version issue after idle - Fix sample video. Build is required, issue was in ffmpeg version. now it's v7 - Fix rss tage when name have space - Fix aria2 seed Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+2024-07-25 12:57:27
+commit 66a57bc0ee931296a567f5ac49cf17b7e0e90347 Author: Juned KH <kjuned007@gmail.com> Date: Thu Jul 25 13:24:19 2024 +0530 support password mediafire folder this will works only if every file has same password.
