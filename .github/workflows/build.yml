@@ -26,12 +26,12 @@ jobs:
         docker tag $DOCKER_IMAGE_NAME:${{ github.sha }} $DOCKER_IMAGE_NAME:latest
         docker push $DOCKER_IMAGE_NAME:${{ github.sha }}
         docker push $DOCKER_IMAGE_NAME:latest
+        echo `date +"%Y-%m-%d %H:%M:%S"` > ../git.log
+        echo `git log -1` >> ../git.log
+        cd ..
 
     - name: Push
       run: |
-        pwd
-        echo `date +"%Y-%m-%d %H:%M:%S"` > git.log
-        echo `git log -1` >> git.log
         git config --global user.email "174704366+minedeploy@users.noreply.github.com"
         git config --global user.name "minedeploy"
         git add git.log
