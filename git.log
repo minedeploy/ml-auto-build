@@ -1,2 +1,2 @@
-2024-07-25 00:16:53
-commit f13a8ff90a96bbd0f29dbfbf9f916e6b3f0deb84 Author: minedeploy <174704366+minedeploy@users.noreply.github.com> Date: Thu Jul 25 07:15:30 2024 +0700 Update build.yml
+2024-07-25 00:22:18
+commit e8b494f0e63974d21bee43e6d9be07812a265192 Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Jul 25 02:16:13 2024 +0300 Fixes - Fix jdownloader device version issue after idle - Fix sample video. Build is required, issue was in ffmpeg version. now it's v7 - Fix rss tage when name have space - Fix aria2 seed Signed-off-by: anasty17 <e.anastayyar@gmail.com>
