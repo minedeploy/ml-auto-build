@@ -1,0 +1,26 @@
+name: Oneshot Docker
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+
+    env:
+      ONESHOT_IMAGE: ${{ secrets.ONESHOT_IMAGE }}
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Build and Push
+      run: |
+        git clone https://github.com/anasty17/mirror-leech-telegram-bot cloned
+        cd cloned
+        git log -1
+        docker login -u ${{ secrets.ONESHOT_USERNAME }} -p ${{ secrets.ONESHOT_PASSWORD }}
+        docker build -t $ONESHOT_IMAGE:${{ github.sha }} .
+        docker tag $ONESHOT_IMAGE:${{ github.sha }} $ONESHOT_IMAGE:latest
+        docker push $ONESHOT_IMAGE:${{ github.sha }}
+        docker push $ONESHOT_IMAGE:latest
