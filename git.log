@@ -1,2 +1,2 @@
-2024-08-12 18:17:17
-commit 66a57bc0ee931296a567f5ac49cf17b7e0e90347 Author: Juned KH <kjuned007@gmail.com> Date: Thu Jul 25 13:24:19 2024 +0530 support password mediafire folder this will works only if every file has same password.
+2024-08-13 00:56:00
+commit c9c75a65b5ee42ab56cc070f4252a8325b0cb294 Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Aug 12 23:31:32 2024 +0300 Switch to pyrofork - Fix qbittorrent webui password - Fix wrong message when upload path not added - Other minor fix Signed-off-by: anasty17 <e.anastayyar@gmail.com>
