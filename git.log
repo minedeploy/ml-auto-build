@@ -1,2 +1,2 @@
-2024-08-13 18:16:34
+2024-08-14 00:55:22
 commit c9c75a65b5ee42ab56cc070f4252a8325b0cb294 Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Aug 12 23:31:32 2024 +0300 Switch to pyrofork - Fix qbittorrent webui password - Fix wrong message when upload path not added - Other minor fix Signed-off-by: anasty17 <e.anastayyar@gmail.com>
