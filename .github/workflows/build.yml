@@ -16,24 +16,23 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Build
+    - name: Push
       run: |
         git clone https://github.com/anasty17/mirror-leech-telegram-bot cloned
         cd cloned
         git log -1
+        echo `git log -1` > ../git.log
+        git config --global user.email "174704366+minedeploy@users.noreply.github.com"
+        git config --global user.name "minedeploy"
+        git add git.log
+        git commit -am "Update detected"
+        git push
+
+    - name: Build
+      run: |
+        cd cloned
         docker login -u ${{ secrets.DOCKER_USERNAME }} -p ${{ secrets.DOCKER_PASSWORD }}
         docker build -t $DOCKER_IMAGE_NAME:${{ github.sha }} .
         docker tag $DOCKER_IMAGE_NAME:${{ github.sha }} $DOCKER_IMAGE_NAME:latest
         docker push $DOCKER_IMAGE_NAME:${{ github.sha }}
         docker push $DOCKER_IMAGE_NAME:latest
-        echo `date +"%Y-%m-%d %H:%M:%S"` > ../git.log
-        echo `git log -1` >> ../git.log
-        cd ..
-
-    - name: Push
-      run: |
-        git config --global user.email "174704366+minedeploy@users.noreply.github.com"
-        git config --global user.name "minedeploy"
-        git add git.log
-        git commit -am "Build done"
-        git push
