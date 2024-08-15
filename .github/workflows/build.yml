@@ -22,6 +22,7 @@ jobs:
         cd cloned
         git log -1
         echo `git log -1` > ../git.log
+        cd ..
         git config --global user.email "174704366+minedeploy@users.noreply.github.com"
         git config --global user.name "minedeploy"
         git add git.log
