@@ -1,1 +1,1 @@
-commit ae4b66a82aa6d897b551c7939832d58dc367295c Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Aug 19 00:32:31 2024 +0300 Switch to pyrotgfork due to some errors in pyrofork Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit cb707b86eeda2ec85896c05de9f9bffa6179930f Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Aug 20 14:21:24 2024 +0300 Fix mirror upload destination when link from rclone or gdrive Signed-off-by: anasty17 <e.anastayyar@gmail.com>
