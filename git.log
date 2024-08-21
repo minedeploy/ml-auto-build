@@ -1,1 +1,1 @@
-commit cb707b86eeda2ec85896c05de9f9bffa6179930f Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Aug 20 14:21:24 2024 +0300 Fix mirror upload destination when link from rclone or gdrive Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 63d23d07f1e2427d3e02ca7ef138d7f7b3b6b6b6 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Wed Aug 21 04:25:39 2024 +0300 Fix bulk
