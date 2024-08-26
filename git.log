@@ -1,1 +1,1 @@
-commit eb3bedaffdfe063c77efd87e16498d1977a7e05b Author: anasty17 <e.anastayyar@gmail.com> Date: Sun Aug 25 23:20:43 2024 +0300 Refactor variable names to follow PEP 8 conventions (snake_case) - Now you can add cfg.zip in repo directory and not only from bot settings - Other minor fixes Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit d933dc9ea7f794488038868c58e3032cc3b8e352 Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Aug 26 03:51:25 2024 +0300 Add Topic support close #1610 Signed-off-by: anasty17 <e.anastayyar@gmail.com>
