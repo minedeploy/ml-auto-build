@@ -1,1 +1,1 @@
-commit d14a60b142f78cdc2b882ad0d28f2ab05eb9cbae Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Aug 27 05:29:17 2024 +0300 Fix rss exclude filter - other minor fixes Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit b78d84fd68bb083832d36816841a94c98c19682d Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Sep 3 00:56:55 2024 +0300 some reverts and switch back to pyrofork Signed-off-by: anasty17 <e.anastayyar@gmail.com>
