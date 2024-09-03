@@ -1,1 +1,1 @@
-commit f29e1d0c83e13d0efd0b90ccfa6a827774822172 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Sep 3 02:44:26 2024 +0300 Minor fixes Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 1d072aeaa525fd998f26937b5701f5f5a443d88f Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Sep 3 06:55:39 2024 +0300 Fix new_task Deco fn Signed-off-by: anasty17 <e.anastayyar@gmail.com>
