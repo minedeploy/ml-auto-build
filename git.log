@@ -1,1 +1,1 @@
-commit d1a44a17a45f87487ff7e7f54b87f3934a7732be Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Sep 9 02:11:03 2024 +0300 Fix download gdrive using jdownloader without token.pickle Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit c3047ba515683c02ab9cf3dd1b5ff6294cceb78a Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Mon Sep 9 21:21:35 2024 +0300 Same rev commit for bsetting Soon i will add topic support for rss
