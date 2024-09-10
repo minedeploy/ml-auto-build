@@ -1,1 +1,1 @@
-commit c3047ba515683c02ab9cf3dd1b5ff6294cceb78a Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Mon Sep 9 21:21:35 2024 +0300 Same rev commit for bsetting Soon i will add topic support for rss
+commit 96b2335e361c544f095702eb031aca04db48102f Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Sep 10 04:51:59 2024 +0300 Fix leech upload des while using username and topics - added topic support for rss Signed-off-by: anasty17 <e.anastayyar@gmail.com>
