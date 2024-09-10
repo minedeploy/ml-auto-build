@@ -1,1 +1,1 @@
-commit 96b2335e361c544f095702eb031aca04db48102f Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Sep 10 04:51:59 2024 +0300 Fix leech upload des while using username and topics - added topic support for rss Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 198f736f0c95e6f2a68db44a10e9fbebdbd00b97 Author: anasty17 <e.anastayyar@gmail.com> Date: Wed Sep 11 02:11:47 2024 +0300 Fix name sub and change usage - use ffprobe to know document type first Signed-off-by: anasty17 <e.anastayyar@gmail.com>
