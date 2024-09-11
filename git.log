@@ -1,1 +1,1 @@
-commit 198f736f0c95e6f2a68db44a10e9fbebdbd00b97 Author: anasty17 <e.anastayyar@gmail.com> Date: Wed Sep 11 02:11:47 2024 +0300 Fix name sub and change usage - use ffprobe to know document type first Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit d807af67edd003218041ca429f00268e676b9584 Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Sep 12 00:37:53 2024 +0300 Add thumbnail layout option Signed-off-by: anasty17 <e.anastayyar@gmail.com>
