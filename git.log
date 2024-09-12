@@ -1,1 +1,1 @@
-commit 7716e3cfc1e178080e9e3c67f85dc28422cfef4f Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Sep 12 03:47:49 2024 +0300 Add -doc and -med args for leech type to use them as task option - Force thumbnail layout on yt-dlp videos Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit ce2bcd6c4cd1b952f36a194721bc989b9e778958 Merge: 7716e3c b507336 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Thu Sep 12 14:31:10 2024 +0300 Merge pull request #1758 from GHLuckM4n/master Wrong path thumbnail for user setting
