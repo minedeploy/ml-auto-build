@@ -1,1 +1,1 @@
-commit d807af67edd003218041ca429f00268e676b9584 Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Sep 12 00:37:53 2024 +0300 Add thumbnail layout option Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 7716e3cfc1e178080e9e3c67f85dc28422cfef4f Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Sep 12 03:47:49 2024 +0300 Add -doc and -med args for leech type to use them as task option - Force thumbnail layout on yt-dlp videos Signed-off-by: anasty17 <e.anastayyar@gmail.com>
