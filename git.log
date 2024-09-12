@@ -1,1 +1,1 @@
-commit fdc6b6c365d00f5926d0a0b3f2e4f12e1aaf2434 Author: anasty17 <e.anastayyar@gmail.com> Date: Fri Sep 13 00:54:12 2024 +0300 Add zst file decompressor - Fix rare issue in same directory download close #1653 Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit e48ee7213e4ee18c5a79782063c52240684ec727 Author: anasty17 <e.anastayyar@gmail.com> Date: Fri Sep 13 00:54:12 2024 +0300 Add zst file decompressor - Fix rare issue in same directory download close #1653 Signed-off-by: anasty17 <e.anastayyar@gmail.com>
