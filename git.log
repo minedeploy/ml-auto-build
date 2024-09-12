@@ -1,1 +1,1 @@
-commit ce2bcd6c4cd1b952f36a194721bc989b9e778958 Merge: 7716e3c b507336 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Thu Sep 12 14:31:10 2024 +0300 Merge pull request #1758 from GHLuckM4n/master Wrong path thumbnail for user setting
+commit a3917a949c866d7da04b5572cb65dbc4d2b5b360 Merge: ce2bcd6 32dce7b Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Thu Sep 12 15:53:22 2024 +0300 Merge pull request #1759 from GHLuckM4n/master Escaping dirpath for combine images
