@@ -1,1 +1,1 @@
-commit e48ee7213e4ee18c5a79782063c52240684ec727 Author: anasty17 <e.anastayyar@gmail.com> Date: Fri Sep 13 00:54:12 2024 +0300 Add zst file decompressor - Fix rare issue in same directory download close #1653 Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 7023b6c87519303fd0e5441d66feb931e2616319 Author: anasty17 <e.anastayyar@gmail.com> Date: Sat Sep 14 03:11:11 2024 +0300 important to avoid error path is invalid Signed-off-by: anasty17 <e.anastayyar@gmail.com>
