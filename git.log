@@ -1,1 +1,1 @@
-commit 7023b6c87519303fd0e5441d66feb931e2616319 Author: anasty17 <e.anastayyar@gmail.com> Date: Sat Sep 14 03:11:11 2024 +0300 important to avoid error path is invalid Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit b1f7520e6b606dd9360a932b975ecdfa16a9a247 Merge: 7023b6c 923fdb4 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Sun Sep 15 11:28:21 2024 +0300 Merge pull request #1764 from 5hojib/master Minor fix.
