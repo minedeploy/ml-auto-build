@@ -1,1 +1,1 @@
-commit 8d82184f1eb91d770ab4d0c7e00dad09ce5f1faf Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Sep 26 05:33:42 2024 +0300 Fix some issues in jdownloader and yt-dlp ranges path Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 738a46c47fffc34a37da8c56e5bf4aac7a84dfde Author: anasty17 <e.anastayyar@gmail.com> Date: Fri Sep 27 01:12:34 2024 +0300 Select specific files or folders to download/copy from rclone using buttons - Fix minor issue in rclone list and gdrive list close #1668 Signed-off-by: anasty17 <e.anastayyar@gmail.com>
