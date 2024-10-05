@@ -1,1 +1,1 @@
-commit 4bb49760227c0f0c17fdbd15825d512bd10c93e1 Merge: 738a46c f1932d1 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Sat Oct 5 14:58:27 2024 +0300 Merge pull request #1775 from aenulrofik/master Fix ddl mediafire
+commit 9e30a5d3c7ef8e6acb15e6fe051cb5bd68d6a3ab Author: anasty17 <e.anastayyar@gmail.com> Date: Sun Oct 6 01:54:30 2024 +0300 Fix same directory stuck issue - Add ability to use different folder names using -m arg along with the links inside the batch - Other minor fixes Signed-off-by: anasty17 <e.anastayyar@gmail.com>
