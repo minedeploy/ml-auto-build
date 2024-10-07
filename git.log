@@ -1,1 +1,1 @@
-commit 9e30a5d3c7ef8e6acb15e6fe051cb5bd68d6a3ab Author: anasty17 <e.anastayyar@gmail.com> Date: Sun Oct 6 01:54:30 2024 +0300 Fix same directory stuck issue - Add ability to use different folder names using -m arg along with the links inside the batch - Other minor fixes Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit dea66d7c0f39135ea265118b0197763105adfc5e Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Oct 7 13:26:01 2024 +0300 Fix new folder -m incase of one link Signed-off-by: anasty17 <e.anastayyar@gmail.com>
