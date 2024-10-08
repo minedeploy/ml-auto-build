@@ -1,1 +1,1 @@
-commit 094c79a4594387d046bc535cd9a267df32ddd33b Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Oct 8 03:05:53 2024 +0300 Minor fix for jdwonloader sync while download and when adding cred from botsettings Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 854a4851bea448251d06383785a34f5774a79580 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Oct 8 17:50:49 2024 +0300 Some fixes and improvemnts for jdownloader Signed-off-by: anasty17 <e.anastayyar@gmail.com>
