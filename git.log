@@ -1,1 +1,1 @@
-commit 854a4851bea448251d06383785a34f5774a79580 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Oct 8 17:50:49 2024 +0300 Some fixes and improvemnts for jdownloader Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit eda38a0ef03ce72ac7a008c24ef8f12009f4c501 Merge: 854a485 c7267df Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Wed Oct 9 20:03:49 2024 +0300 Merge pull request #1778 from aenulrofik/master fix ddl mediafire v2
