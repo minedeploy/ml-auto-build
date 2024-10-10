@@ -1,1 +1,1 @@
-commit 2212537739543471110c6c41922a05b21671ca09 Author: anasty17 <e.anastayyar@gmail.com> Date: Wed Oct 9 21:24:19 2024 +0300 Fix file uplaod name (important) fix #1777 Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 525d44a714a78db5689bab12bd6990b76d5db159 Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Oct 10 03:15:18 2024 +0300 Remove offline files auto from jd packages Signed-off-by: anasty17 <e.anastayyar@gmail.com>
