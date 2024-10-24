@@ -1,1 +1,1 @@
-commit 010fb337a74c5f5a4fea76d59413ff28755fe216 Author: anasty17 <e.anastayyar@gmail.com> Date: Wed Oct 23 22:53:25 2024 +0300 Improve jdownloader - Improve queue - handle invalid directory in jdownloader incase file name is too long - Otherr minor fixes Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit f36494c1a45a7092fd4101eeda7608dfc6c49cc0 Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Oct 24 02:41:22 2024 +0300 minor revert Signed-off-by: anasty17 <e.anastayyar@gmail.com>
