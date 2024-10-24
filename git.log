@@ -1,1 +1,1 @@
-commit f36494c1a45a7092fd4101eeda7608dfc6c49cc0 Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Oct 24 02:41:22 2024 +0300 minor revert Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 2a838c20094bc6de5d2b412a0d7f40f175df8e82 Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Oct 24 14:33:28 2024 +0300 Add headers to rss httpx client - some feed links doesn't work without headers - add timeout Signed-off-by: anasty17 <e.anastayyar@gmail.com>
