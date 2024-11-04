@@ -1,1 +1,1 @@
-commit 2a838c20094bc6de5d2b412a0d7f40f175df8e82 Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Oct 24 14:33:28 2024 +0300 Add headers to rss httpx client - some feed links doesn't work without headers - add timeout Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit e752bb1e8b1af78a24b8d36b364b3c150551d141 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Mon Nov 4 06:13:23 2024 +0200 Update requirements.txt https://github.com/yt-dlp/yt-dlp/releases/tag/2024.11.04
