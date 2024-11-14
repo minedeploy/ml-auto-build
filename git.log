@@ -1,1 +1,1 @@
-commit efe2c21af475bd6fec0f46ff7b186af998360c4e Author: anasty17 <e.anastayyar@gmail.com> Date: Wed Nov 6 04:15:45 2024 +0200 Minor fix Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit f97076bf4949c6997120c91962ea2d136491cc36 Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Nov 14 11:55:41 2024 +0200 Use venv instead of breaking system packges Signed-off-by: anasty17 <e.anastayyar@gmail.com>
