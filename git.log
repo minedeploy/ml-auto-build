@@ -1,1 +1,1 @@
-commit b2060f1f3b41930f3f6512bf55d172b910c26dff Author: anasty17 <e.anastayyar@gmail.com> Date: Sun Nov 17 09:57:49 2024 +0200 handle substitute wrong values Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 7b86de551852a07ce2a284f8a6d80fe184066d7d Merge: b2060f1 f23ce88 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Sun Nov 24 20:06:20 2024 +0200 Merge pull request #1784 from GHLuckM4n/master Remove GLOBAL_GID when queue task cancelled
