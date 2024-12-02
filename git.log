@@ -1,1 +1,1 @@
-commit 4f343c75444f119b9c123fd751b09d9099170c21 Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Dec 2 17:07:48 2024 +0200 Fix ffmpeg cmd list edit Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit b2a4b0c4de07dcd4bac04b99e5bd5d0911f8176b Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Dec 2 18:45:36 2024 +0200 Some fixes to ffmpeg cmds Signed-off-by: anasty17 <e.anastayyar@gmail.com>
