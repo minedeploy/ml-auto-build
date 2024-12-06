@@ -1,1 +1,1 @@
-commit 3ee6343f342a4a174957952401c92451c63025ff Author: Juned KH <kjuned007@gmail.com> Date: Thu Dec 5 18:03:10 2024 +0530 File rename Implemented in only qbittorrent
+commit 83037d0b706acef0c46582a71d2cc6edf985b7e0 Author: Juned KH <kjuned007@gmail.com> Date: Fri Dec 6 17:43:12 2024 +0530 Folder rename implemented. fix some ui issue in web page add invert select and select everything button.
