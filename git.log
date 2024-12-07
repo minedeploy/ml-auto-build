@@ -1,1 +1,1 @@
-commit 83037d0b706acef0c46582a71d2cc6edf985b7e0 Author: Juned KH <kjuned007@gmail.com> Date: Fri Dec 6 17:43:12 2024 +0530 Folder rename implemented. fix some ui issue in web page add invert select and select everything button.
+commit 0e4b428f713a55c781126341e0f685bbe28d380e Merge: 83037d0 4efc68f Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Sun Dec 8 00:13:12 2024 +0200 Merge pull request #1790 from 5hojib/master naming convention PEP8
