@@ -1,1 +1,1 @@
-commit 0e4b428f713a55c781126341e0f685bbe28d380e Merge: 83037d0 4efc68f Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Sun Dec 8 00:13:12 2024 +0200 Merge pull request #1790 from 5hojib/master naming convention PEP8
+commit 6bb56e245b23d143da6ee62e23bc1fa1fc698f49 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Sun Dec 15 10:32:46 2024 +0200 Update to ubuntu 24.10 - Use zip instead of 7z for compressing
