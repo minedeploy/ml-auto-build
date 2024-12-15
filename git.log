@@ -1,1 +1,1 @@
-commit 6bb56e245b23d143da6ee62e23bc1fa1fc698f49 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Sun Dec 15 10:32:46 2024 +0200 Update to ubuntu 24.10 - Use zip instead of 7z for compressing
+commit a92d14b0e7423ffc4133a5862875e691d5894948 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Sun Dec 15 10:32:46 2024 +0200 Update to ubuntu 24.10 - Use zip instead of 7z for compressing
