@@ -1,1 +1,1 @@
-commit 8ab6c9ca4bd305e5e1a3ccc5d24ebce8f5cff74b Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Dec 16 07:49:16 2024 +0200 Support for latest qbittorrent - fix direct upload - fix stop start actions - fix web selection progress incase file size is zero Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 0a4b4785d01be12ed7097431ce213ee6e40e9f7b Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Dec 16 09:41:55 2024 +0200 Fix media convert Signed-off-by: anasty17 <e.anastayyar@gmail.com>
