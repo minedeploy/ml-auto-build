@@ -1,1 +1,1 @@
-commit a92d14b0e7423ffc4133a5862875e691d5894948 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Sun Dec 15 10:32:46 2024 +0200 Update to ubuntu 24.10 - Use zip instead of 7z for compressing
+commit 8ab6c9ca4bd305e5e1a3ccc5d24ebce8f5cff74b Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Dec 16 07:49:16 2024 +0200 Support for latest qbittorrent - fix direct upload - fix stop start actions - fix web selection progress incase file size is zero Signed-off-by: anasty17 <e.anastayyar@gmail.com>
