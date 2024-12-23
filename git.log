@@ -1,1 +1,1 @@
-commit 03f3276dc3446fb46dafadd6d79102540059890b Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Dec 23 20:54:08 2024 +0200 Add restart session cmd - Fix some minor errors - Confirm before restart Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 24ccebe7449b5d7ad5458664722d488979605e93 Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Dec 23 21:28:06 2024 +0200 Fix cancel restart Signed-off-by: anasty17 <e.anastayyar@gmail.com>
