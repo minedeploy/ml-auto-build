@@ -1,1 +1,1 @@
-commit f2e3be4bf98dd065245674f1c8fb2f1a472ae845 Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Dec 23 02:40:33 2024 +0200 Refactor Part 2 - Fix few errors - Change ffmpeg cmds input. Check readme! - Change config from .env to .py (build and deploy is required) Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 03f3276dc3446fb46dafadd6d79102540059890b Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Dec 23 20:54:08 2024 +0200 Add restart session cmd - Fix some minor errors - Confirm before restart Signed-off-by: anasty17 <e.anastayyar@gmail.com>
