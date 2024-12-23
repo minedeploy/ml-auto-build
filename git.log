@@ -1,1 +1,1 @@
-commit 24ccebe7449b5d7ad5458664722d488979605e93 Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Dec 23 21:28:06 2024 +0200 Fix cancel restart Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 2d9084006c14eb81089a007465b746c6b82e46c0 Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Dec 23 23:58:03 2024 +0200 leech without thumb - only by using arg -t none close #1768 Signed-off-by: anasty17 <e.anastayyar@gmail.com>
