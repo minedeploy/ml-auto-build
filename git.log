@@ -1,1 +1,1 @@
-commit 0a4b4785d01be12ed7097431ce213ee6e40e9f7b Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Dec 16 09:41:55 2024 +0200 Fix media convert Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit f2e3be4bf98dd065245674f1c8fb2f1a472ae845 Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Dec 23 02:40:33 2024 +0200 Refactor Part 2 - Fix few errors - Change ffmpeg cmds input. Check readme! - Change config from .env to .py (build and deploy is required) Signed-off-by: anasty17 <e.anastayyar@gmail.com>
