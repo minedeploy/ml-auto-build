@@ -1,1 +1,1 @@
-commit 082829670022d12143f0cd610e806921a53b3b2e Author: anasty17 <e.anastayyar@gmail.com> Date: Sat Dec 28 17:32:10 2024 +0200 Fix args remove ffmpeg. from file name if -del added in ffmpeg cmd Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 628e96df3f08327029fcbff850b694071b0f96fe Author: anasty17 <e.anastayyar@gmail.com> Date: Wed Jan 1 04:02:52 2025 +0200 Typo Signed-off-by: anasty17 <e.anastayyar@gmail.com>
