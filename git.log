@@ -1,1 +1,1 @@
-commit cef1ec49188533b994d03d9c82cddacb7a95e7bd Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Jan 2 12:55:51 2025 +0200 Minor improvments and fix args - Improve jdownloader progress ad fix minor issue in it - Improve ffmpeg and 7z progress - other minor fixes Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit aec25f08583416f1e300bdffc41ed97b256f1ffa Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Jan 2 13:41:39 2025 +0200 Minor fix Signed-off-by: anasty17 <e.anastayyar@gmail.com>
