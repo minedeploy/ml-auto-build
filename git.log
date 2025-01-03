@@ -1,1 +1,1 @@
-commit a86669be785d49b5f54b94ea05893d14747e2e64 Author: anasty17 <e.anastayyar@gmail.com> Date: Fri Jan 3 03:17:09 2025 +0200 Improvments - improve sabnzbd progress not full progress but better than before regarding verify and unpack - ability to more than one -ff arg to use more than one key Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 8fb888d57b673f45f446d0df032ca02206593064 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Fri Jan 3 22:31:14 2025 +0200 fix drive_list read on startup close #1798
