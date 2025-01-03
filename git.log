@@ -1,1 +1,1 @@
-commit aec25f08583416f1e300bdffc41ed97b256f1ffa Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Jan 2 13:41:39 2025 +0200 Minor fix Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit a86669be785d49b5f54b94ea05893d14747e2e64 Author: anasty17 <e.anastayyar@gmail.com> Date: Fri Jan 3 03:17:09 2025 +0200 Improvments - improve sabnzbd progress not full progress but better than before regarding verify and unpack - ability to more than one -ff arg to use more than one key Signed-off-by: anasty17 <e.anastayyar@gmail.com>
