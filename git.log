@@ -1,1 +1,1 @@
-commit 8fb888d57b673f45f446d0df032ca02206593064 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Fri Jan 3 22:31:14 2025 +0200 fix drive_list read on startup close #1798
+commit e86feb2b2f550ea17bc70ddcfc55cb7d730578e9 Author: anasty17 <e.anastayyar@gmail.com> Date: Sat Jan 11 15:33:49 2025 +0200 Refactor part 3 - Rewrite seed feature - improve and fix ffmpeg progress - add count in progress for some features Signed-off-by: anasty17 <e.anastayyar@gmail.com>
