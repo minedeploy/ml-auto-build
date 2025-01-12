@@ -1,1 +1,1 @@
-commit e86feb2b2f550ea17bc70ddcfc55cb7d730578e9 Author: anasty17 <e.anastayyar@gmail.com> Date: Sat Jan 11 15:33:49 2025 +0200 Refactor part 3 - Rewrite seed feature - improve and fix ffmpeg progress - add count in progress for some features Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit cdf0043d78e13f29fadfc59be0a02945ea7125a6 Author: anasty17 <e.anastayyar@gmail.com> Date: Sun Jan 12 23:33:27 2025 +0200 Add support for multiple ffmpeg outputs - Fix some issues Signed-off-by: anasty17 <e.anastayyar@gmail.com>
