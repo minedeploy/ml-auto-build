@@ -1,1 +1,1 @@
-commit cdf0043d78e13f29fadfc59be0a02945ea7125a6 Author: anasty17 <e.anastayyar@gmail.com> Date: Sun Jan 12 23:33:27 2025 +0200 Add support for multiple ffmpeg outputs - Fix some issues Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit ee1e67f5dc0158c5158254350d38b335e9b1b2f0 Merge: cdf0043 6aa1f10 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Mon Jan 13 12:39:04 2025 +0200 Merge pull request #1803 from pachax001/master Added buzzheavier direct link generation
