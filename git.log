@@ -1,1 +1,1 @@
-commit fdf4558d67c2f6522644efe01e151e99c88875d7 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Jan 14 11:47:16 2025 +0200 Some fixes - Fix rclone clone extra '/' in path - fix ffmpeg for multiple files - other minor changes close #1801 Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit b34dd7a952fc640485851fa566ec694599a56978 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Jan 14 12:38:52 2025 +0200 Another minor fixes Signed-off-by: anasty17 <e.anastayyar@gmail.com>
