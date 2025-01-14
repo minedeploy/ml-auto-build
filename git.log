@@ -1,1 +1,1 @@
-commit b34dd7a952fc640485851fa566ec694599a56978 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Jan 14 12:38:52 2025 +0200 Another minor fixes Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 8ce373ef6b5751b5c57abc7ff415f27b5551ac54 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Jan 14 16:57:29 2025 +0200 Add rss size limit - map 0 for convert - fix ffmpeg status timeout close #1795 Signed-off-by: anasty17 <e.anastayyar@gmail.com>
