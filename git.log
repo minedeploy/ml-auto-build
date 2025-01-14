@@ -1,1 +1,1 @@
-commit 963d587db3f53db232efb6b2df3507fdf28b2840 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Jan 14 18:38:04 2025 +0200 Minor revert to fix download torrent file Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 58fb3dd07a8d08389ee435c26bdd456db8cfe8ee Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Jan 14 22:27:11 2025 +0200 Use shlex split to cover all cases in ffmpeg_cmds fix #1806 Signed-off-by: anasty17 <e.anastayyar@gmail.com>
