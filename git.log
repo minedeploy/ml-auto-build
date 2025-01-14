@@ -1,1 +1,1 @@
-commit 8ce373ef6b5751b5c57abc7ff415f27b5551ac54 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Jan 14 16:57:29 2025 +0200 Add rss size limit - map 0 for convert - fix ffmpeg status timeout close #1795 Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 963d587db3f53db232efb6b2df3507fdf28b2840 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Jan 14 18:38:04 2025 +0200 Minor revert to fix download torrent file Signed-off-by: anasty17 <e.anastayyar@gmail.com>
