@@ -1,1 +1,1 @@
-commit 612b353d71dac1bee26e92afb03011f508ae417a Author: anasty17 <e.anastayyar@gmail.com> Date: Wed Jan 15 13:16:56 2025 +0200 Fix ffmpeg_cmd input ext - switch to host network instead of docker network Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 790e9519a2201c65d89d73322ffbbbcb07cf35e8 Author: anasty17 <e.anastayyar@gmail.com> Date: Wed Jan 15 19:58:24 2025 +0200 Dynamic outputs in ffmpeg_cmds - like mltb-2.srt or mltb643 or mltb or mltb334534.srt or mltb.srt Signed-off-by: anasty17 <e.anastayyar@gmail.com>
