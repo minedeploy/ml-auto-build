@@ -1,1 +1,1 @@
-commit 58fb3dd07a8d08389ee435c26bdd456db8cfe8ee Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Jan 14 22:27:11 2025 +0200 Use shlex split to cover all cases in ffmpeg_cmds fix #1806 Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 612b353d71dac1bee26e92afb03011f508ae417a Author: anasty17 <e.anastayyar@gmail.com> Date: Wed Jan 15 13:16:56 2025 +0200 Fix ffmpeg_cmd input ext - switch to host network instead of docker network Signed-off-by: anasty17 <e.anastayyar@gmail.com>
