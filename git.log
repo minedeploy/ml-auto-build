@@ -1,1 +1,1 @@
-commit 790e9519a2201c65d89d73322ffbbbcb07cf35e8 Author: anasty17 <e.anastayyar@gmail.com> Date: Wed Jan 15 19:58:24 2025 +0200 Dynamic outputs in ffmpeg_cmds - like mltb-2.srt or mltb643 or mltb or mltb334534.srt or mltb.srt Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 1644d5c914a79d65da1add92807677bd215b34bf Author: anasty17 <e.anastayyar@gmail.com> Date: Wed Jan 15 22:22:38 2025 +0200 Fix deployconfig save Signed-off-by: anasty17 <e.anastayyar@gmail.com>
