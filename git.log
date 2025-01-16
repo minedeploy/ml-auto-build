@@ -1,1 +1,1 @@
-commit d1bc02576a177f6b4e205f0ac56e179520a1fdda Merge: 1644d5c 5ab7154 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Thu Jan 16 10:04:11 2025 +0200 Add curl_cffi Yt-dlp recommend this lib
+commit eabf3513d0158af88258f1471746211ed44838a7 Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Jan 16 18:48:30 2025 +0200 Fix for ffmpeg - Fix dynamic output now u can add mltb-%d.{ext} or mltb-%03d - Fix upload path if ffmpeg failed for file path fix #1808 Signed-off-by: anasty17 <e.anastayyar@gmail.com>
