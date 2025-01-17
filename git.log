@@ -1,1 +1,1 @@
-commit 5f7ef3911d197a33e20a5ea429fb442d77cb55b2 Author: anasty17 <e.anastayyar@gmail.com> Date: Fri Jan 17 00:10:10 2025 +0200 minor change Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 5f8e9b7ad17d4d175e9358014f2a7b08b63c85c4 Author: anasty17 <e.anastayyar@gmail.com> Date: Fri Jan 17 13:32:17 2025 +0200 minor fix - stop exec after jdownloader exception Signed-off-by: anasty17 <e.anastayyar@gmail.com>
