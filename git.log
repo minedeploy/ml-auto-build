@@ -1,1 +1,1 @@
-commit 5f8e9b7ad17d4d175e9358014f2a7b08b63c85c4 Author: anasty17 <e.anastayyar@gmail.com> Date: Fri Jan 17 13:32:17 2025 +0200 minor fix - stop exec after jdownloader exception Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 76259cf518c2028997ecb3114e14d40ffed2ccee Author: anasty17 <e.anastayyar@gmail.com> Date: Sun Jan 19 13:37:37 2025 +0200 fix upper case ext check for document type Signed-off-by: anasty17 <e.anastayyar@gmail.com>
