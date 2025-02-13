@@ -1,1 +1,1 @@
-commit a84e4326056a16f8e317d52ffff4e5d4b15bc133 Merge: 8dbba56 d73b09b Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Wed Feb 12 14:12:24 2025 +0200 Merge pull request #1824 from SilentDemonSD/master fix(db): Typo
+commit 1e03916695c69bdea29f4184fb64faf74a236158 Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Feb 13 02:18:02 2025 +0200 Fix rclone error preview - Fix Torrent timeout edit from bsetting Signed-off-by: anasty17 <e.anastayyar@gmail.com>
