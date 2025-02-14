@@ -1,1 +1,1 @@
-commit 784da1eb46ae7fbd1503412b3d3cbe8085f5902b Author: anasty17 <e.anastayyar@gmail.com> Date: Fri Feb 14 16:44:28 2025 +0200 Fix aria2 download remove Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit cb1d30e62001687026a745aee630e7a155e7ddeb Author: anasty17 <e.anastayyar@gmail.com> Date: Fri Feb 14 17:56:23 2025 +0200 Change authorize cmd to auth sam for unauth - Fix jdleech cmd (got error fix from mod) Signed-off-by: anasty17 <e.anastayyar@gmail.com>
