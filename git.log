@@ -1,1 +1,1 @@
-commit 6b51ec50821af6bbabde6a5c8eb7071cda739f2d Merge: 1e03916 4c7509c Author: Juned KH <9571025+junedkh@users.noreply.github.com> Date: Fri Feb 14 16:13:06 2025 +0530 Merge pull request #1826 from SilentDemonSD/master fix(startup:db): Typo & Logging
+commit 784da1eb46ae7fbd1503412b3d3cbe8085f5902b Author: anasty17 <e.anastayyar@gmail.com> Date: Fri Feb 14 16:44:28 2025 +0200 Fix aria2 download remove Signed-off-by: anasty17 <e.anastayyar@gmail.com>
