@@ -1,1 +1,1 @@
-commit 0fe96a0e7617abe53cda1568a5a38303ccf96b71 Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Feb 17 04:13:43 2025 +0200 minor fix Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 05b4ccdc72cf2d912201f81500e783c8a2c06f56 Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Feb 17 14:58:48 2025 +0200 Handle aiohttp exceptions Signed-off-by: anasty17 <e.anastayyar@gmail.com>
