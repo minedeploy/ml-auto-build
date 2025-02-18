@@ -1,1 +1,1 @@
-commit dba3e9efa7577b45c7d3a2dc614b4cc76aa55fb0 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Feb 18 03:35:39 2025 +0200 Now you can add directory along with -m (same dir) Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 1dabaee3ebf241f551283a7ed3624adbf135bac7 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Feb 18 15:41:49 2025 +0200 Fix minor issues in sabnzb and qbit exception Signed-off-by: anasty17 <e.anastayyar@gmail.com>
