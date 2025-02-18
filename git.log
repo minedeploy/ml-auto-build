@@ -1,1 +1,1 @@
-commit 1dabaee3ebf241f551283a7ed3624adbf135bac7 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Feb 18 15:41:49 2025 +0200 Fix minor issues in sabnzb and qbit exception Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 2cfe009cf3e9f7e56cfa49619be406f2cd73639e Author: anasty17 <e.anastayyar@gmail.com> Date: Wed Feb 19 01:05:13 2025 +0200 Fix h:Chat_id upload destination Signed-off-by: anasty17 <e.anastayyar@gmail.com>
