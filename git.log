@@ -1,1 +1,1 @@
-commit 56d03ea40b7d9806c80ca3d0641582de3b8faeeb Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Feb 18 02:16:02 2025 +0200 Add Rclone flags to user setting - other minor fixes Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit dba3e9efa7577b45c7d3a2dc614b4cc76aa55fb0 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Feb 18 03:35:39 2025 +0200 Now you can add directory along with -m (same dir) Signed-off-by: anasty17 <e.anastayyar@gmail.com>
