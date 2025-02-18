@@ -1,1 +1,1 @@
-commit 05b4ccdc72cf2d912201f81500e783c8a2c06f56 Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Feb 17 14:58:48 2025 +0200 Handle aiohttp exceptions Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 56d03ea40b7d9806c80ca3d0641582de3b8faeeb Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Feb 18 02:16:02 2025 +0200 Add Rclone flags to user setting - other minor fixes Signed-off-by: anasty17 <e.anastayyar@gmail.com>
