@@ -1,1 +1,1 @@
-commit 4b8b14dd7598683c8aa16f35f7d9516ae18ce0d5 Author: anasty17 <e.anastayyar@gmail.com> Date: Wed Feb 19 04:01:53 2025 +0200 minor changes Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 9dbeb947226b7204965518aa5d812e27b19f772c Author: anasty17 <e.anastayyar@gmail.com> Date: Wed Feb 19 05:25:57 2025 +0200 Fix usetting private files and excluded extension in some cases Signed-off-by: anasty17 <e.anastayyar@gmail.com>
