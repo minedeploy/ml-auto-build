@@ -1,1 +1,1 @@
-commit 9dbeb947226b7204965518aa5d812e27b19f772c Author: anasty17 <e.anastayyar@gmail.com> Date: Wed Feb 19 05:25:57 2025 +0200 Fix usetting private files and excluded extension in some cases Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 2f3b4efc414141cf0eb009230434a2791a676219 Merge: 9dbeb94 7f5b122 Author: Juned KH <9571025+junedkh@users.noreply.github.com> Date: Wed Feb 19 15:03:40 2025 +0530 Merge pull request #1827 from 5hojib/patch-2 Add swisstransfer direct link generator.
