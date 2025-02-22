@@ -1,1 +1,1 @@
-commit 003d111d8c053ad4fd8b6722aef210a1a60c30f8 Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Feb 20 15:53:30 2025 +0200 fix cfg.zip deletion from bsetting Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 975074157ffda463be40d43e44cb0927b8d2f813 Author: anasty17 <e.anastayyar@gmail.com> Date: Sat Feb 22 14:16:32 2025 +0200 Fix qbit sync and special case in tg download Signed-off-by: anasty17 <e.anastayyar@gmail.com>
