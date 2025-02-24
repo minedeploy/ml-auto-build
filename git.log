@@ -1,1 +1,1 @@
-commit 975074157ffda463be40d43e44cb0927b8d2f813 Author: anasty17 <e.anastayyar@gmail.com> Date: Sat Feb 22 14:16:32 2025 +0200 Fix qbit sync and special case in tg download Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit bd998216e6bf9b8f353187066144e2dd71ca1774 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Mon Feb 24 15:37:19 2025 +0200 Fix telegram None filename
