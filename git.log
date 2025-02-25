@@ -1,1 +1,1 @@
-commit 1e1227346f3e65bbba3b9c7afee7617c78ea6b94 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Feb 25 03:56:35 2025 +0200 Implement retry mechanism for qbittorrent requests - other minor fixes Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 94a259524fd9f9c7e3ffe122b1973c3bcb11eb0a Merge: 1e12273 046b246 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Wed Feb 26 01:12:02 2025 +0200 Merge pull request #1829 from SpEcHiDe/patch-1 fix for appdrive scrapper
