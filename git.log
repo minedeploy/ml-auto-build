@@ -1,1 +1,1 @@
-commit bd998216e6bf9b8f353187066144e2dd71ca1774 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Mon Feb 24 15:37:19 2025 +0200 Fix telegram None filename
+commit 1e1227346f3e65bbba3b9c7afee7617c78ea6b94 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Feb 25 03:56:35 2025 +0200 Implement retry mechanism for qbittorrent requests - other minor fixes Signed-off-by: anasty17 <e.anastayyar@gmail.com>
