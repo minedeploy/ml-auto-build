@@ -1,1 +1,1 @@
-commit 469f5a3967db4eff8150aa41377838c29a606c44 Merge: c176c02 a7ace76 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Tue Mar 4 00:56:58 2025 +0200 Merge pull request #1830 from whitedemon938/master added support for devuploads.com dl generator
+commit 6946017e3b52f10e44c5dafb4baa9a285f8e5859 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Mar 4 01:38:10 2025 +0200 minor revert Signed-off-by: anasty17 <e.anastayyar@gmail.com>
