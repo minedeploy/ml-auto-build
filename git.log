@@ -1,1 +1,1 @@
-commit aa1a80d79aa42f98d771269e29ec2f299cdf82bb Author: anasty17 <e.anastayyar@gmail.com> Date: Wed Mar 26 03:12:48 2025 +0200 fix #1833 Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 3873f3a5c6798ac91ce34cc1868981c1c3f6551c Merge: aa1a80d f0b1d7c Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Thu Mar 27 00:24:47 2025 +0200 Merge pull request #1836 from ThePrateekBhatia/patch-1 feat: Add Pixeldrain limit bypass via pd.cybar.xyz
