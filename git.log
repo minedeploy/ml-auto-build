@@ -1,1 +1,1 @@
-commit 1e2f40b73e204f147f6d8d550e39e5c1435e33ef Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Mar 27 02:58:01 2025 +0200 readme Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit d2802da92b497268715f78f290705cba27d122a1 Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Mar 31 05:15:05 2025 +0300 Fix qbittorrent seed after selection incase you have selected the compeleted items only Signed-off-by: anasty17 <e.anastayyar@gmail.com>
