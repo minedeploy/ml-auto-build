@@ -1,1 +1,1 @@
-commit d2802da92b497268715f78f290705cba27d122a1 Author: anasty17 <e.anastayyar@gmail.com> Date: Mon Mar 31 05:15:05 2025 +0300 Fix qbittorrent seed after selection incase you have selected the compeleted items only Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit a59717851bc342cd57dec68bf124b8cfd8932250 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Apr 1 00:32:52 2025 +0300 change upload state for qittorrent Signed-off-by: anasty17 <e.anastayyar@gmail.com>
