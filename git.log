@@ -1,1 +1,1 @@
-commit a59717851bc342cd57dec68bf124b8cfd8932250 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Apr 1 00:32:52 2025 +0300 change upload state for qittorrent Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit ac04bef0b0b6d32a7da1d75cd53c9a91436354ff Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Wed Apr 2 10:50:41 2025 +0300 Minir fix in file_selector
