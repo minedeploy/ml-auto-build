@@ -1,1 +1,1 @@
-commit ac04bef0b0b6d32a7da1d75cd53c9a91436354ff Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Wed Apr 2 10:50:41 2025 +0300 Minir fix in file_selector
+commit 72996d5e1390726e6124243d0273e87aa9fa4e14 Merge: ac04bef a4c5014 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Thu Apr 24 18:37:01 2025 +0300 Merge pull request #1838 from 5hojib/master add nzbhydra2 search module for /nzbsearch command and typo.
