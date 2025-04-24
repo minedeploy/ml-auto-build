@@ -1,1 +1,1 @@
-commit 72996d5e1390726e6124243d0273e87aa9fa4e14 Merge: ac04bef a4c5014 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Thu Apr 24 18:37:01 2025 +0300 Merge pull request #1838 from 5hojib/master add nzbhydra2 search module for /nzbsearch command and typo.
+commit 6f0ce2d4652de6ca285e941cc6a04fc8899abf6c Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Apr 24 19:14:29 2025 +0300 minor changes Signed-off-by: anasty17 <e.anastayyar@gmail.com>
