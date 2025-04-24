@@ -1,1 +1,1 @@
-commit 1ff2dfb15ec0b29fd64300e3f3853a32cb47dede Merge: 6f0ce2d 1af50a4 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Thu Apr 24 21:46:41 2025 +0300 Merge pull request #1839 from 5hojib/patch-1 Typo
+commit 92f77786eccf45754cabf5760c33051f8172086a Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Apr 24 23:31:25 2025 +0300 Fix sabnzbd status Signed-off-by: anasty17 <e.anastayyar@gmail.com>
