@@ -1,1 +1,1 @@
-commit 75c8501f0cf1de38bcb86ac35e517f06506f161c Merge: 74c973e f69f54d Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Thu May 8 21:50:09 2025 +0300 Merge pull request #1843 from AnonGhostID/master Fix buzzheavier directlink
+commit d0cd6b7d9de46ddc30aab37fe5bb9e8f0dec60f4 Author: anasty17 <e.anastayyar@gmail.com> Date: Mon May 12 23:25:23 2025 +0300 fix sabnzbd servers settings in bsetting Signed-off-by: anasty17 <e.anastayyar@gmail.com>
