@@ -1,1 +1,1 @@
-commit d0cd6b7d9de46ddc30aab37fe5bb9e8f0dec60f4 Author: anasty17 <e.anastayyar@gmail.com> Date: Mon May 12 23:25:23 2025 +0300 fix sabnzbd servers settings in bsetting Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit fcbb1e0a4c04215d74e538442a50584eb4e4fde8 Merge: d0cd6b7 b4e8e9a Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Tue May 13 17:04:09 2025 +0300 Merge pull request #1844 from 5hojib/patch-1 fix: audio with thumb detect as video
