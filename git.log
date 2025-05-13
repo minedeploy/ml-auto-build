@@ -1,1 +1,1 @@
-commit fcbb1e0a4c04215d74e538442a50584eb4e4fde8 Merge: d0cd6b7 b4e8e9a Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Tue May 13 17:04:09 2025 +0300 Merge pull request #1844 from 5hojib/patch-1 fix: audio with thumb detect as video
+commit 1127188f00ae50e3d38a8abc8c81986b15aea962 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue May 13 17:28:24 2025 +0300 Fix ffmpeg refernce edit - remove restart sesion - add type convert to correct the wrong types of config values Signed-off-by: anasty17 <e.anastayyar@gmail.com>
