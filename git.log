@@ -1,1 +1,1 @@
-commit c22df0d9f822c35a7e782cf9ecbf15caa6babd59 Author: anasty17 <e.anastayyar@gmail.com> Date: Fri May 16 04:35:16 2025 +0300 TG link as ffmpeg input to set watermark or anything else. (for small sizes) - Some minor fixes in direct link generator. - Fix jdownloader name in some cases - Add view button to show ffmpeg cmds Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit a4abeafeeb5299044594c975023ce5d60b492aab Author: anasty17 <e.anastayyar@gmail.com> Date: Fri May 16 22:21:17 2025 +0300 some fixes in jdownloader Signed-off-by: anasty17 <e.anastayyar@gmail.com>
