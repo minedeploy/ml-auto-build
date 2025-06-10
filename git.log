@@ -1,1 +1,1 @@
-commit 682045ded2dfa8769d993c3b729a75405f526b1b Merge: cfbca24 dce2763 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Sat Jun 7 22:11:59 2025 +0300 Merge pull request #1855 from whitedemon938/master Fixed : async to sync of terabox code from pull/1848
+commit ff8709e1d9d43c240f1edb1b3c8862e951bac948 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Jun 10 16:18:49 2025 +0300 fix magent regex Signed-off-by: anasty17 <e.anastayyar@gmail.com>
