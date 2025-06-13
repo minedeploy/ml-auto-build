@@ -1,1 +1,1 @@
-commit ff8709e1d9d43c240f1edb1b3c8862e951bac948 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Jun 10 16:18:49 2025 +0300 fix magent regex Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit a9ca3b6dab9386f052d4648197e90ad9c191b64d Merge: ff8709e 3465c8e Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Sat Jun 14 00:01:29 2025 +0300 Merge pull request #1857 from pikaproject/master Add buzzheavier and terabox folder support
