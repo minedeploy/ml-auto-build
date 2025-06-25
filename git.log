@@ -1,1 +1,1 @@
-commit 6266f0690cf027b598b3434b1945866afcdf5e51 Author: anasty17 <e.anastayyar@gmail.com> Date: Wed Jun 25 00:15:30 2025 +0300 resolve rclone conflicts Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 1e749076ad6a56f71f8fcb95e38b0afc6a926010 Merge: 6266f06 0b5b405 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Wed Jun 25 22:05:37 2025 +0300 Merge pull request #1864 from cybernobie/master Typo Fix :)
