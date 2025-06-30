@@ -1,1 +1,1 @@
-commit 2c5d4092a85be3ff50c59c8fa401c3157d6ba7b3 Author: anasty17 <e.anastayyar@gmail.com> Date: Sun Jun 29 23:04:55 2025 +0300 fix key error in rm sudo Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 2df3942bd6fd5d00371d93cee912cded6399c184 Merge: 2c5d409 1bb2d9a Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Mon Jun 30 20:29:37 2025 +0300 Merge pull request #1866 from kkhanyaseen/patch-5 Minor
