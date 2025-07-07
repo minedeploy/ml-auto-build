@@ -1,1 +1,1 @@
-commit 963255ab5be2d0a79bd27278546962672eea4d1a Author: anasty17 <e.anastayyar@gmail.com> Date: Sun Jul 6 18:41:28 2025 +0300 strip / from index url when set from usetting Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit de7722394384db6ae9e0cad0fac01a04fbe599d3 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Mon Jul 7 11:56:57 2025 +0300 Fix rclone progress
