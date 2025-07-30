@@ -1,1 +1,1 @@
-commit 0b26d43ee100230f8970d9b4df400184f1bb1a10 Merge: d32f0d6 9464a84 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Wed Jul 30 11:47:12 2025 +0300 Merge pull request #1873 from xob0t/deploy-enhancements Add environment variable support for config values
+commit 615a34a89f7768ee3b36f1f53889dc537741d7b3 Author: anasty17 <e.anastayyar@gmail.com> Date: Wed Jul 30 12:26:43 2025 +0300 minor changes Signed-off-by: anasty17 <e.anastayyar@gmail.com>
