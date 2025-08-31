@@ -1,1 +1,1 @@
-commit 379efa5f4a1b822f4323c166a2e6d8201885a771 Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Aug 28 19:46:35 2025 +0300 fix index url and note added to readme Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 8b347a2dbb26adbda1c312bafd0f0c8fbb818398 Merge: 379efa5 1668153 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Sun Aug 31 05:02:08 2025 +0300 Merge pull request #1876 from sys6101/master fix download mediafire.com
