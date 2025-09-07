@@ -1,1 +1,1 @@
-commit 8b347a2dbb26adbda1c312bafd0f0c8fbb818398 Merge: 379efa5 1668153 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Sun Aug 31 05:02:08 2025 +0300 Merge pull request #1876 from sys6101/master fix download mediafire.com
+commit 0ca2b46c6dd93d676abef4ccf6f48176a8967f8f Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Sun Sep 7 14:39:20 2025 +0300 Fix / in index_url
