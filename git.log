@@ -1,1 +1,1 @@
-commit 614eb6693031ac0de0707cf05c8f7fe93dfab32a Author: anasty17 <e.anastayyar@gmail.com> Date: Thu Sep 18 22:00:07 2025 +0300 Fixes - Fix stop duplicate while using user token - Fix ffmpeg arg if no ffmpeg in bsetting or usetting Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 6b8bf050f6f8dca3844a27c4ce300ef80cb24ee3 Author: anasty17 <e.anastayyar@gmail.com> Date: Sat Sep 20 04:05:08 2025 +0300 fix ffmpeg cmd run in folders Signed-off-by: anasty17 <e.anastayyar@gmail.com>
