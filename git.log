@@ -1,1 +1,1 @@
-commit 6b8bf050f6f8dca3844a27c4ce300ef80cb24ee3 Author: anasty17 <e.anastayyar@gmail.com> Date: Sat Sep 20 04:05:08 2025 +0300 fix ffmpeg cmd run in folders Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 1426ed3380d08d87a65d9cd635f89d04f05475a0 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Sep 23 23:13:13 2025 +0300 minor fix in aria2 - Handle gid not found properly after adding already exist torrent Signed-off-by: anasty17 <e.anastayyar@gmail.com>
