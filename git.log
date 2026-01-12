@@ -1,1 +1,1 @@
-commit 1426ed3380d08d87a65d9cd635f89d04f05475a0 Author: anasty17 <e.anastayyar@gmail.com> Date: Tue Sep 23 23:13:13 2025 +0300 minor fix in aria2 - Handle gid not found properly after adding already exist torrent Signed-off-by: anasty17 <e.anastayyar@gmail.com>
+commit 01881356ef9254f58f116c9a6418b114857cb81c Merge: 022e6ba 15c75f3 Author: Anas Tayyar <e.anastayyar@gmail.com> Date: Mon Dec 29 09:29:05 2025 +0200 Merge pull request #1896 from vupn0712/master Refactor database connection to use DATABASE_NAME from config
